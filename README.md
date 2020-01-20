@@ -15,6 +15,9 @@ So if you want to use this Repository as it is, please do the following before d
     a. siteAdmin - change the username to the destination Administrator Username
     b. Subdomain - change the domain name to the community created in destination instance
 
+Once the above steps are completed, you can deploy package.xml components in your SFDC instance from VS Code. 
+Finally, you can click on 'Activate Community' from the Administration section of your community workspace.
+
 # Components
 1. StaticResource - chartjs
 2. LWC - accCaseByPriorityComponent, accCaseByStatusComponent, accountListComponent

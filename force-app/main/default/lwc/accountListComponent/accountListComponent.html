@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="Display Accounts" icon-name="custom:custom63">
+        <lightning-combobox
+            placeholder="Select Account"
+            name="Accounts"
+            label="Account Name"
+            value={value}
+            options={accountListOptions}
+            onchange={handleChange} >
+        </lightning-combobox>
+    </lightning-card>
+</template>

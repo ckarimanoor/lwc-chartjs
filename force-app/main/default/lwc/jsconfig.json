@@ -1,0 +1,35 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/accCaseByPriorityComponent": [
+                "accCaseByPriorityComponent/accCaseByPriorityComponent.js"
+            ],
+            "c/accCaseByStatusComponent": [
+                "accCaseByStatusComponent/accCaseByStatusComponent.js"
+            ],
+            "c/accountListComponent": [
+                "accountListComponent/accountListComponent.js"
+            ],
+            "c/errorPanel": [
+                "errorPanel/errorPanel.js"
+            ],
+            "c/ldsUtils": [
+                "ldsUtils/ldsUtils.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

@@ -1,7 +1,9 @@
 # Introduction
 
 This repository contains a basic example of using LWC and Donut chart based on Chart.js .
-In addition to the basic sample, this repository also demonstrates the pub/sub model of LWC allowing interaction between the two unrelated LWC components. 
+In addition to the basic sample, this repository also demonstrates the pub/sub model of LWC allowing interaction between the two unrelated LWC components in the same Lightning page.
+Take a look at this link for a brief intro on pubsub module of LWC
+https://developer.salesforce.com/docs/component-library/documentation/lwc/lwc.events_pubsub 
 
 # Set up Details
 This repository is developed and tested under a Lightning Community. 

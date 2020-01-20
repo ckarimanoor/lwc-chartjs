@@ -9,6 +9,7 @@ So if you want to use this Repository as it is, please do the following before d
 1. Enable communities
 2. Create a Community with the name( accountCases ) and URL as 'accCase'
 3. Under sites folder in VS code, change the following two items:
+
     a. siteAdmin - change the username to the destination Administrator Username
     b. Subdomain - change the domain name to the community created in destination instance
 

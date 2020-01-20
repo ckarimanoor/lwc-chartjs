@@ -5,7 +5,15 @@ In addition to the basic sample, this repository also demonstrates the pub/sub m
 Take a look at this link for a brief intro on pubsub module of LWC
 https://developer.salesforce.com/docs/component-library/documentation/lwc/lwc.events_pubsub 
 
+# Assumptions
+
+1. VS Code installed in your Machine
+2. Git and Github related extensions are added to your VS code configuration
+
 # Set up Details
+Please use this url - https://github.com/ckarimanoor/lwc-chartjs in VS Code to clone this repository.
+A new Project will be created with name as 'lwc-chartjs'
+
 This repository is developed and tested under a Lightning Community. 
 So if you want to use this Repository as it is, please do the following before deploying package.xml from this repository into your SFDC instance
 1. Enable communities

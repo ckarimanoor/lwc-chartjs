@@ -23,8 +23,8 @@
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>chellappa.js@gmail.com</siteAdmin>
+    <siteAdmin>chellappa.knjs@gmail.com</siteAdmin>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>ck-js-developer-edition</subdomain>
+    <subdomain>ck-lwc-js-developer-edition</subdomain>
     <urlPathPrefix>accCase</urlPathPrefix>
 </CustomSite>

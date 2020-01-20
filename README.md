@@ -7,7 +7,7 @@ In addition to the basic sample, this repository also demonstrates the pub/sub m
 This repository is developed and tested under a Lightning Community. 
 So if you want to use this Repository as it is, please do the following before deploying package.xml from this repository into your SFDC instance
 1. Enable communities
-2. Create a Community with the name( accountCases ) and URL as 'accCase'
+2. Create a 'Build Your Own' Community with the name( accountCases ) and URL as 'accCase'
 3. Under sites folder in VS code, change the following two items:
 
     a. siteAdmin - change the username to the destination Administrator Username
